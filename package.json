@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "sequelize": "^6.37.2",
-    "sequelize-typescript": "^2.1.6"
+    "sequelize-typescript": "^2.1.6",
+    "xlsx": "^0.18.5"
   }
 }
