@@ -1,9 +1,0 @@
-[submodule "backend"]
-	path = Backend
-	url = https://github.com/Code-Lotus/api3-Backend.git
-[submodule "frontend"]
-	path = Frontend
-	url = https://github.com/Code-Lotus/api3-Frontend.git
-[submodule "database"]
-	path = Database
-	url = https://github.com/Code-Lotus/api3-Database.git
