@@ -28,7 +28,7 @@ Para esta entrega, utilizamos a metodologia Scrum, sendo alguns artefatos o Prod
 
 <div align="center">
     
-![Gif Sprint 1](./sprint1.png)
+![Gif Sprint 1](./sprint1.jpeg)
 
 </div>
 
