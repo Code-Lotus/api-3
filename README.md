@@ -26,7 +26,7 @@ Os objetivos da sprint foram:
 
 Para esta entrega, utilizamos a metodologia Scrum, sendo alguns artefatos o Product Backlog contendo as User Stories, o Burndown Chart e as divisões da equipe, como o PO, o Scrum Master e o Dev Team. Para entender melhor sobre o produto que o cliente desejava, houve uma palestra explicativa sobre os requisitos do projeto.
 
-Vídeo
+![Gif Sprint 1](./sprint1.gif)
 
 → [Voltar ao topo](#topo)
 
