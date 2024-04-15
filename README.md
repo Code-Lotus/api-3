@@ -44,7 +44,7 @@ As tarefas da equipe foram divididas entre Backend e Frontend para os integrante
 
 <div align="center">
 
-![Burndown](./burndown_sprint1.jpeg)
+![Burndown](./burndown_sprint1.jpeg.jpeg)
 
 </div>
 
