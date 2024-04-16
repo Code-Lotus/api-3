@@ -6,7 +6,6 @@
 <p align="center">
   <a href="#sobre">Sobre</a>  |  
   <a href="#backlog">Backlog & User Stories</a>  |  
-  <a href="#prototipo">Protótipo & Documentação</a>  |  
   <a href="#tecnologias">Tecnologias</a>  |  
   <a href="#equipe">Equipe</a>
 </p>
@@ -22,8 +21,8 @@ Este é um projeto acadêmico, que possui como objetivo criar uma aplicação qu
 As entregas foram realizadas a partir de seus respectivos repositórios, além de cada sprint de entrega possuir sua branch com um relatório a detalhando.
 |Sprint|Entrega|Status|Registro|
 |------|----|------|--------|
-|1|14/04/2024|⌚Em andamento|Relatório 1|
-|2|05/05/2024|Não iniciado|Relatório 2|
+|1|14/04/2024|✔️ Concluída |[Relatório 1](https://github.com/Code-Lotus/api-3/tree/Sprint-1)|
+|2|05/05/2024|⌚Em andamento|Relatório 2|
 |3|26/05/2024|Não iniciado|Relatório 3|
 |4|16/06/2024|Não iniciado|Relatório 4|
 
