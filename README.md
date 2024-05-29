@@ -58,6 +58,7 @@ As entregas foram realizadas a partir de seus respectivos repositórios, além d
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="30" /> 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" height="30" />
+<img src="https://img.shields.io/badge/MySQL-217346?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" />
 
 <span id="equipe">
 
