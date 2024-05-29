@@ -30,8 +30,6 @@ Os objetivos da sprint foram:
 Para esta entrega, utilizamos a metodologia Scrum, sendo alguns artefatos o Product Backlog contendo as User Stories, o Burndown Chart e as divisões da equipe, como o PO, o Scrum Master e o Dev Team.
 
 <div align="center">
-    
-![Gif Sprint 3](./sprint3.jpeg)
 
 </div>
 
