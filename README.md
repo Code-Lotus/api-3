@@ -24,7 +24,7 @@ As entregas foram realizadas a partir de seus respectivos repositórios, além d
 |1|14/04/2024|✔️ Concluída |[Relatório 1](https://github.com/Code-Lotus/api-3/tree/Sprint-1)|
 |2|05/05/2024|✔️ Concluída |[Relatório 2](https://github.com/Code-Lotus/api-3/tree/Sprint-2)|
 |3|26/05/2024|✔️ Concluída |[Relatório 3](https://github.com/Code-Lotus/api-3/tree/Sprint-3)|
-|4|16/06/2024|✔️ Concluída |[Relatório 3](https://github.com/Code-Lotus/api-3/tree/Sprint-4)|
+|4|16/06/2024|✔️ Concluída |[Relatório 4](https://github.com/Code-Lotus/api-3/tree/Sprint-4)|
 
 
 <span id="backlog">
