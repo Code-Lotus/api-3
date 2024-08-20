@@ -15,7 +15,7 @@
 ## 📃 Sobre o projeto
 Este é um projeto acadêmico, que possui como objetivo criar uma aplicação que tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico. 
 
-> 📋 _Status do projeto: Em andamento_
+> 📋 _Status do projeto: Finalizado_
 
 ### 🏁 Cronograma de Entrega das Sprints
 As entregas foram realizadas a partir de seus respectivos repositórios, além de cada sprint de entrega possuir sua branch com um relatório a detalhando.
